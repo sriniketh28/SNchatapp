@@ -5,7 +5,7 @@ SNchatapp is a simple Webapp for chatting using React.js, Node.js, Socket.io and
 
 1.Download the zip file and extract it.
 
-2.Open two terminals and cd to client in one terminal and cd to server in one terminal.
+2.Open two terminals and cd to client(SNchatapp-master/chat/client) in one terminal and cd to server(SNchatapp-master/chat/server) in one terminal.
 
 3.Type ``` npm i ``` in both the terminals.
 
