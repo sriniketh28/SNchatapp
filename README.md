@@ -1,5 +1,5 @@
 # SNchatapp
-SNchatapp is a simple Webapp for chatting using React.js, Node.js, Socket.io and Express.js .
+SNchatapp is a simple Webapp for chatting using React.js, Node.js, Socket.io and Express.js .<br />
 SNchatapp is also mobile friendly.
 
 ## Steps to install
